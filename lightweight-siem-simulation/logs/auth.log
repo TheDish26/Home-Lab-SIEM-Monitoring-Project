@@ -1,0 +1,7 @@
+Apr 16 10:12:14 ubuntu sshd[1234]: Failed password for invalid user admin from 192.168.1.20 port 55432 ssh2
+Apr 16 10:12:18 ubuntu sshd[1235]: Failed password for root from 192.168.1.20 port 55432 ssh2
+Apr 16 10:12:22 ubuntu sshd[1236]: Failed password for root from 192.168.1.20 port 55432 ssh2
+Apr 16 10:12:25 ubuntu sshd[1237]: Accepted password for user1 from 10.0.0.5 port 51222 ssh2
+Apr 16 10:12:30 ubuntu sshd[1238]: Failed password for user2 from 203.0.113.8 port 44512 ssh2
+Apr 16 10:13:01 ubuntu sudo: user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/apt update
+Apr 16 10:13:01 ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=1000)

@@ -1,0 +1,8 @@
+TimeCreated,EventID,Level,Source,User,Message
+2025-04-16T10:15:00,4625,FailureAudit,Microsoft-Windows-Security-Auditing,User1,An account failed to log on.
+2025-04-16T10:16:00,4624,SuccessAudit,Microsoft-Windows-Security-Auditing,User1,An account was successfully logged on.
+2025-04-16T10:17:00,4672,Information,Microsoft-Windows-Security-Auditing,User1,Special privileges assigned to new logon.
+2025-04-16T10:18:00,4688,Information,Microsoft-Windows-Security-Auditing,User1,A new process has been created.
+2025-04-16T10:19:00,4625,FailureAudit,Microsoft-Windows-Security-Auditing,User2,An account failed to log on.
+2025-04-16T10:20:00,4624,SuccessAudit,Microsoft-Windows-Security-Auditing,User2,An account was successfully logged on.
+2025-04-16T10:21:00,4672,Information,Microsoft-Windows-Security-Auditing,User2,Special privileges assigned to new logon.
